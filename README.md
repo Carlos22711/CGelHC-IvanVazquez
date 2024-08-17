@@ -1,5 +1,5 @@
-![escudo_fi_color](https://github.com/user-attachments/assets/352934ad-cc89-4d11-95cb-02a99fd0e265)
-
+<img src = https://github.com/user-attachments/assets/352934ad-cc89-4d11-95cb-02a99fd0e265 alt = " Logo fi" width="300" height="200">
+ 
 # UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
 
 ## COMPUTACIÓN GRÁFICA E ITERACCIÓN HUMANO-COMPUTADORA
