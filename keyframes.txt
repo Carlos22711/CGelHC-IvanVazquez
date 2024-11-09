@@ -1,0 +1,366 @@
+KeyFrame[0].movAve_x = 0.0f;
+KeyFrame[0].movAve_y = 0.0f;
+KeyFrame[0].movAve_z = 0.0f;
+KeyFrame[0].giroAve = 0.0f;
+KeyFrame[0].giroAla = 0.0f;
+
+KeyFrame[1].movAve_x = 10.0f;
+KeyFrame[1].movAve_y = 0.0f;
+KeyFrame[1].movAve_z = 0.0f;
+KeyFrame[1].giroAve = 0.0f;
+KeyFrame[1].giroAla = 35.0f;
+
+KeyFrame[2].movAve_x = 20.0f;
+KeyFrame[2].movAve_y = 0.0f;
+KeyFrame[2].movAve_z = 0.0f;
+KeyFrame[2].giroAve = 0.0f;
+KeyFrame[2].giroAla = 0.0f;
+
+KeyFrame[3].movAve_x = 30.0f;
+KeyFrame[3].movAve_y = 0.0f;
+KeyFrame[3].movAve_z = 0.0f;
+KeyFrame[3].giroAve = 0.0f;
+KeyFrame[3].giroAla = 35.0f;
+
+KeyFrame[4].movAve_x = 50.0f;
+KeyFrame[4].movAve_y = -10.0f;
+KeyFrame[4].movAve_z = 0.0f;
+KeyFrame[4].giroAve = 0.0f;
+KeyFrame[4].giroAla = 0.0f;
+
+KeyFrame[5].movAve_x = 70.0f;
+KeyFrame[5].movAve_y = -20.0f;
+KeyFrame[5].movAve_z = 0.0f;
+KeyFrame[5].giroAve = 0.0f;
+KeyFrame[5].giroAla = 0.0f;
+
+KeyFrame[6].movAve_x = 80.0f;
+KeyFrame[6].movAve_y = -20.0f;
+KeyFrame[6].movAve_z = 0.0f;
+KeyFrame[6].giroAve = 0.0f;
+KeyFrame[6].giroAla = 0.0f;
+
+KeyFrame[7].movAve_x = 90.0f;
+KeyFrame[7].movAve_y = -20.0f;
+KeyFrame[7].movAve_z = 0.0f;
+KeyFrame[7].giroAve = 0.0f;
+KeyFrame[7].giroAla = 0.0f;
+
+KeyFrame[8].movAve_x = 100.0f;
+KeyFrame[8].movAve_y = -20.0f;
+KeyFrame[8].movAve_z = 0.0f;
+KeyFrame[8].giroAve = 0.0f;
+KeyFrame[8].giroAla = 0.0f;
+
+KeyFrame[9].movAve_x = 110.0f;
+KeyFrame[9].movAve_y = -20.0f;
+KeyFrame[9].movAve_z = 0.0f;
+KeyFrame[9].giroAve = 0.0f;
+KeyFrame[9].giroAla = 0.0f;
+
+KeyFrame[10].movAve_x = 120.0f;
+KeyFrame[10].movAve_y = -20.0f;
+KeyFrame[10].movAve_z = 0.0f;
+KeyFrame[10].giroAve = 0.0f;
+KeyFrame[10].giroAla = 0.0f;
+
+KeyFrame[11].movAve_x = 130.0f;
+KeyFrame[11].movAve_y = -20.0f;
+KeyFrame[11].movAve_z = 0.0f;
+KeyFrame[11].giroAve = 0.0f;
+KeyFrame[11].giroAla = 0.0f;
+
+KeyFrame[12].movAve_x = 150.0f;
+KeyFrame[12].movAve_y = -10.0f;
+KeyFrame[12].movAve_z = 0.0f;
+KeyFrame[12].giroAve = 0.0f;
+KeyFrame[12].giroAla = 35.0f;
+
+KeyFrame[13].movAve_x = 170.0f;
+KeyFrame[13].movAve_y = 0.0f;
+KeyFrame[13].movAve_z = 0.0f;
+KeyFrame[13].giroAve = 0.0f;
+KeyFrame[13].giroAla = 0.0f;
+
+KeyFrame[14].movAve_x = 180.0f;
+KeyFrame[14].movAve_y = 0.0f;
+KeyFrame[14].movAve_z = 0.0f;
+KeyFrame[14].giroAve = 0.0f;
+KeyFrame[14].giroAla = 35.0f;
+
+KeyFrame[15].movAve_x = 190.0f;
+KeyFrame[15].movAve_y = 0.0f;
+KeyFrame[15].movAve_z = 0.0f;
+KeyFrame[15].giroAve = 0.0f;
+KeyFrame[15].giroAla = 0.0f;
+
+KeyFrame[16].movAve_x = 200.0f;
+KeyFrame[16].movAve_y = 0.0f;
+KeyFrame[16].movAve_z = -20.0f;
+KeyFrame[16].giroAve = 90.0f;
+KeyFrame[16].giroAla = 35.0f;
+
+KeyFrame[17].movAve_x = 200.0f;
+KeyFrame[17].movAve_y = 0.0f;
+KeyFrame[17].movAve_z = -30.0f;
+KeyFrame[17].giroAve = 90.0f;
+KeyFrame[17].giroAla = 0.0f;
+
+KeyFrame[18].movAve_x = 200.0f;
+KeyFrame[18].movAve_y = -10.0f;
+KeyFrame[18].movAve_z = -50.0f;
+KeyFrame[18].giroAve = 90.0f;
+KeyFrame[18].giroAla = 0.0f;
+
+KeyFrame[19].movAve_x = 200.0f;
+KeyFrame[19].movAve_y = -20.0f;
+KeyFrame[19].movAve_z = -70.0f;
+KeyFrame[19].giroAve = 90.0f;
+KeyFrame[19].giroAla = 0.0f;
+
+KeyFrame[20].movAve_x = 200.0f;
+KeyFrame[20].movAve_y = -20.0f;
+KeyFrame[20].movAve_z = -80.0f;
+KeyFrame[20].giroAve = 90.0f;
+KeyFrame[20].giroAla = 0.0f;
+
+KeyFrame[21].movAve_x = 200.0f;
+KeyFrame[21].movAve_y = -20.0f;
+KeyFrame[21].movAve_z = -90.0f;
+KeyFrame[21].giroAve = 90.0f;
+KeyFrame[21].giroAla = 0.0f;
+
+KeyFrame[22].movAve_x = 200.0f;
+KeyFrame[22].movAve_y = -20.0f;
+KeyFrame[22].movAve_z = -100.0f;
+KeyFrame[22].giroAve = 90.0f;
+KeyFrame[22].giroAla = 0.0f;
+
+KeyFrame[23].movAve_x = 200.0f;
+KeyFrame[23].movAve_y = -20.0f;
+KeyFrame[23].movAve_z = -110.0f;
+KeyFrame[23].giroAve = 90.0f;
+KeyFrame[23].giroAla = 0.0f;
+
+KeyFrame[24].movAve_x = 200.0f;
+KeyFrame[24].movAve_y = -20.0f;
+KeyFrame[24].movAve_z = -120.0f;
+KeyFrame[24].giroAve = 90.0f;
+KeyFrame[24].giroAla = 0.0f;
+
+KeyFrame[25].movAve_x = 200.0f;
+KeyFrame[25].movAve_y = -20.0f;
+KeyFrame[25].movAve_z = -130.0f;
+KeyFrame[25].giroAve = 90.0f;
+KeyFrame[25].giroAla = 0.0f;
+
+KeyFrame[26].movAve_x = 200.0f;
+KeyFrame[26].movAve_y = -10.0f;
+KeyFrame[26].movAve_z = -150.0f;
+KeyFrame[26].giroAve = 90.0f;
+KeyFrame[26].giroAla = 35.0f;
+
+KeyFrame[27].movAve_x = 200.0f;
+KeyFrame[27].movAve_y = 0.0f;
+KeyFrame[27].movAve_z = -170.0f;
+KeyFrame[27].giroAve = 90.0f;
+KeyFrame[27].giroAla = 0.0f;
+
+KeyFrame[28].movAve_x = 200.0f;
+KeyFrame[28].movAve_y = 0.0f;
+KeyFrame[28].movAve_z = -180.0f;
+KeyFrame[28].giroAve = 90.0f;
+KeyFrame[28].giroAla = 35.0f;
+
+KeyFrame[29].movAve_x = 200.0f;
+KeyFrame[29].movAve_y = 0.0f;
+KeyFrame[29].movAve_z = -190.0f;
+KeyFrame[29].giroAve = 90.0f;
+KeyFrame[29].giroAla = 0.0f;
+
+KeyFrame[30].movAve_x = 190.0f;
+KeyFrame[30].movAve_y = 0.0f;
+KeyFrame[30].movAve_z = -200.0f;
+KeyFrame[30].giroAve = 180.0f;
+KeyFrame[30].giroAla = 35.0f;
+
+KeyFrame[31].movAve_x = 180.0f;
+KeyFrame[31].movAve_y = 0.0f;
+KeyFrame[31].movAve_z = -200.0f;
+KeyFrame[31].giroAve = 180.0f;
+KeyFrame[31].giroAla = 0.0f;
+
+KeyFrame[32].movAve_x = 170.0f;
+KeyFrame[32].movAve_y = 0.0f;
+KeyFrame[32].movAve_z = -200.0f;
+KeyFrame[32].giroAve = 180.0f;
+KeyFrame[32].giroAla = 35.0f;
+
+KeyFrame[33].movAve_x = 150.0f;
+KeyFrame[33].movAve_y = -10.0f;
+KeyFrame[33].movAve_z = -200.0f;
+KeyFrame[33].giroAve = 180.0f;
+KeyFrame[33].giroAla = 0.0f;
+
+KeyFrame[34].movAve_x = 130.0f;
+KeyFrame[34].movAve_y = -20.0f;
+KeyFrame[34].movAve_z = -200.0f;
+KeyFrame[34].giroAve = 180.0f;
+KeyFrame[34].giroAla = 0.0f;
+
+KeyFrame[35].movAve_x = 120.0f;
+KeyFrame[35].movAve_y = -20.0f;
+KeyFrame[35].movAve_z = -200.0f;
+KeyFrame[35].giroAve = 180.0f;
+KeyFrame[35].giroAla = 0.0f;
+
+KeyFrame[36].movAve_x = 110.0f;
+KeyFrame[36].movAve_y = -20.0f;
+KeyFrame[36].movAve_z = -200.0f;
+KeyFrame[36].giroAve = 180.0f;
+KeyFrame[36].giroAla = 0.0f;
+
+KeyFrame[37].movAve_x = 100.0f;
+KeyFrame[37].movAve_y = -20.0f;
+KeyFrame[37].movAve_z = -200.0f;
+KeyFrame[37].giroAve = 180.0f;
+KeyFrame[37].giroAla = 0.0f;
+
+KeyFrame[38].movAve_x = 90.0f;
+KeyFrame[38].movAve_y = -20.0f;
+KeyFrame[38].movAve_z = -200.0f;
+KeyFrame[38].giroAve = 180.0f;
+KeyFrame[38].giroAla = 0.0f;
+
+KeyFrame[39].movAve_x = 80.0f;
+KeyFrame[39].movAve_y = -20.0f;
+KeyFrame[39].movAve_z = -200.0f;
+KeyFrame[39].giroAve = 180.0f;
+KeyFrame[39].giroAla = 0.0f;
+
+KeyFrame[40].movAve_x = 70.0f;
+KeyFrame[40].movAve_y = -20.0f;
+KeyFrame[40].movAve_z = -200.0f;
+KeyFrame[40].giroAve = 180.0f;
+KeyFrame[40].giroAla = 0.0f;
+
+KeyFrame[41].movAve_x = 50.0f;
+KeyFrame[41].movAve_y = -10.0f;
+KeyFrame[41].movAve_z = -200.0f;
+KeyFrame[41].giroAve = 180.0f;
+KeyFrame[41].giroAla = 35.0f;
+
+KeyFrame[42].movAve_x = 30.0f;
+KeyFrame[42].movAve_y = 0.0f;
+KeyFrame[42].movAve_z = -200.0f;
+KeyFrame[42].giroAve = 180.0f;
+KeyFrame[42].giroAla = 0.0f;
+
+KeyFrame[43].movAve_x = 20.0f;
+KeyFrame[43].movAve_y = 0.0f;
+KeyFrame[43].movAve_z = -200.0f;
+KeyFrame[43].giroAve = 180.0f;
+KeyFrame[43].giroAla = 35.0f;
+
+KeyFrame[44].movAve_x = 10.0f;
+KeyFrame[44].movAve_y = 0.0f;
+KeyFrame[44].movAve_z = -200.0f;
+KeyFrame[44].giroAve = 180.0f;
+KeyFrame[44].giroAla = 0.0f;
+
+KeyFrame[45].movAve_x = 0.0f;
+KeyFrame[45].movAve_y = 0.0f;
+KeyFrame[45].movAve_z = -190.0f;
+KeyFrame[45].giroAve = 270.0f;
+KeyFrame[45].giroAla = 35.0f;
+
+KeyFrame[46].movAve_x = 0.0f;
+KeyFrame[46].movAve_y = 0.0f;
+KeyFrame[46].movAve_z = -180.0f;
+KeyFrame[46].giroAve = 270.0f;
+KeyFrame[46].giroAla = 0.0f;
+
+KeyFrame[47].movAve_x = 0.0f;
+KeyFrame[47].movAve_y = 0.0f;
+KeyFrame[47].movAve_z = -170.0f;
+KeyFrame[47].giroAve = 270.0f;
+KeyFrame[47].giroAla = 35.0f;
+
+KeyFrame[48].movAve_x = 0.0f;
+KeyFrame[48].movAve_y = -10.0f;
+KeyFrame[48].movAve_z = -150.0f;
+KeyFrame[48].giroAve = 270.0f;
+KeyFrame[48].giroAla = 0.0f;
+
+KeyFrame[49].movAve_x = 0.0f;
+KeyFrame[49].movAve_y = -20.0f;
+KeyFrame[49].movAve_z = -130.0f;
+KeyFrame[49].giroAve = 270.0f;
+KeyFrame[49].giroAla = 0.0f;
+
+KeyFrame[50].movAve_x = 0.0f;
+KeyFrame[50].movAve_y = -20.0f;
+KeyFrame[50].movAve_z = -120.0f;
+KeyFrame[50].giroAve = 270.0f;
+KeyFrame[50].giroAla = 0.0f;
+
+KeyFrame[51].movAve_x = 0.0f;
+KeyFrame[51].movAve_y = -20.0f;
+KeyFrame[51].movAve_z = -110.0f;
+KeyFrame[51].giroAve = 270.0f;
+KeyFrame[51].giroAla = 0.0f;
+
+KeyFrame[52].movAve_x = 0.0f;
+KeyFrame[52].movAve_y = -20.0f;
+KeyFrame[52].movAve_z = -100.0f;
+KeyFrame[52].giroAve = 270.0f;
+KeyFrame[52].giroAla = 0.0f;
+
+KeyFrame[53].movAve_x = 0.0f;
+KeyFrame[53].movAve_y = -20.0f;
+KeyFrame[53].movAve_z = -90.0f;
+KeyFrame[53].giroAve = 270.0f;
+KeyFrame[53].giroAla = 0.0f;
+
+KeyFrame[54].movAve_x = 0.0f;
+KeyFrame[54].movAve_y = -20.0f;
+KeyFrame[54].movAve_z = -80.0f;
+KeyFrame[54].giroAve = 270.0f;
+KeyFrame[54].giroAla = 0.0f;
+
+KeyFrame[55].movAve_x = 0.0f;
+KeyFrame[55].movAve_y = -20.0f;
+KeyFrame[55].movAve_z = -70.0f;
+KeyFrame[55].giroAve = 270.0f;
+KeyFrame[55].giroAla = 0.0f;
+
+KeyFrame[56].movAve_x = 0.0f;
+KeyFrame[56].movAve_y = -10.0f;
+KeyFrame[56].movAve_z = -50.0f;
+KeyFrame[56].giroAve = 270.0f;
+KeyFrame[56].giroAla = 35.0f;
+
+KeyFrame[57].movAve_x = 0.0f;
+KeyFrame[57].movAve_y = 0.0f;
+KeyFrame[57].movAve_z = -30.0f;
+KeyFrame[57].giroAve = 270.0f;
+KeyFrame[57].giroAla = 35.0f;
+
+KeyFrame[58].movAve_x = 0.0f;
+KeyFrame[58].movAve_y = 0.0f;
+KeyFrame[58].movAve_z = -20.0f;
+KeyFrame[58].giroAve = 270.0f;
+KeyFrame[58].giroAla = 0.0f;
+
+KeyFrame[59].movAve_x = 0.0f;
+KeyFrame[59].movAve_y = 0.0f;
+KeyFrame[59].movAve_z = -10.0f;
+KeyFrame[59].giroAve = 270.0f;
+KeyFrame[59].giroAla = 0.0f;
+
+KeyFrame[60].movAve_x = 0.0f;
+KeyFrame[60].movAve_y = 0.0f;
+KeyFrame[60].movAve_z = 0.0f;
+KeyFrame[60].giroAve = 360.0f;
+KeyFrame[60].giroAla = 0.0f;
+
